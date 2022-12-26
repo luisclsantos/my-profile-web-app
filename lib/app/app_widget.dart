@@ -10,7 +10,7 @@ class AppWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp.router(
-      title: 'Flutter Slidy',
+      title: 'Luis Santos',
       theme: ThemeData.dark().copyWith(
         primaryColor: kPrimaryColor,
         scaffoldBackgroundColor: kBackGroundColor,
